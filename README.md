@@ -61,7 +61,7 @@ Email Notification
 <pre>su - exileserver</pre>
 
 2. Download the script.
-<pre> wget -O exileserver https://raw.githubusercontent.com/Kugane/exile_lgsm/master/exileserver</pre>
+<pre> wget -O exileserver https://raw.githubusercontent.com/btronquo/arma3exile_lgsm/master/exileserver</pre>
 
 3. Make it executable.
 <pre>chmod +x exileserver</pre>
