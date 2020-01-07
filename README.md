@@ -1,12 +1,15 @@
+## Disclaimer
+**This project is deprecated**, please follow the up-to-date version of LGSM [HERE]: https://github.com/GameServerManagers/LinuxGSM
+
 # exile_lgsm
-Modifyd version of LGSM from Daniel Gibbs (dgibbs64) for Exilemod
+Modified version of the famous LGSM (Linux Game Server Manager) from Daniel Gibbs (dgibbs64) for **Exilemod**
 https://github.com/dgibbs64/linuxgsm
 
 -----------------------------------------------------------
 
-<h2>This version is not compatible with LGSM !</h2>
-
-It's optimized & preconfigured to run a exileserver on linux.
+<h2>WARNING:</h2>
+**This version is not compatible with LGSM !**
+**It's optimized & preconfigured to run a exileserver on linux.**
 
 -----------------------------------------------------------
 <h2>Main features</h2>
@@ -22,7 +25,7 @@ It's optimized & preconfigured to run a exileserver on linux.
 </ul>
 
 
-<h2>Requirements too run</h2>
+<h2>Requirements to run this tool</h2>
 Ubuntu 64bit
   <code>sudo apt-get install tmux php5 php5-cgi spawn-fcgi lib32gcc1 libstdc++6 libstdc++6:i386 libtbb2:i386</code>
 
@@ -75,12 +78,5 @@ Email Notification
 5. Run the installer and follow the instructions.
 <pre>./exileserver install</pre>
 
-If steamcmd stuck on login in. Pls cancel the installation & login manually in steamcmd for the first time
-</div>
+**If steamcmd stuck on login in. Please cancel the installation & login manually in steamcmd for the first time**
 
-
-
-<h2>FAQ</h2>
-Show the lgsm thread or my exileforum thread
-- https://github.com/dgibbs64/linuxgsm/wiki/FAQ
-- comming soon
