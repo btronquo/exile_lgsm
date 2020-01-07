@@ -1,5 +1,5 @@
 ## Disclaimer
-**This project is deprecated**, please follow the up-to-date version of LGSM [HERE]: https://github.com/GameServerManagers/LinuxGSM
+**This project is deprecated**, please follow the up-to-date version of LGSM [HERE](https://github.com/GameServerManagers/LinuxGSM)
 
 # exile_lgsm
 Modified version of the famous LGSM (Linux Game Server Manager) from Daniel Gibbs (dgibbs64) for **Exilemod**
