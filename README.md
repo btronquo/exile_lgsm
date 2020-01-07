@@ -8,7 +8,9 @@ https://github.com/dgibbs64/linuxgsm
 -----------------------------------------------------------
 
 <h2>WARNING:</h2>
+
 **This version is not compatible with LGSM !**
+
 **It's optimized & preconfigured to run a exileserver on linux.**
 
 -----------------------------------------------------------
